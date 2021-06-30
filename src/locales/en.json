@@ -203,8 +203,73 @@
         "userslist": {
             "text": "Users"
         },
+
+        "weigh": {
+            "text": "Weigh",
+            "list": {
+                "multideck": "Multi Desk",
+                "lswim": "LSWIM",
+                "hswim": "HSWIM",
+                "tags": "Tags",
+                "yardlist": "Yard List",
+                "scaletest": "Scale Test",
+                "manualweighing": "Manual Weighing",
+                "tolerance": "Set Allowable Tolerance",
+                "anpr": "ANPR Test"
+            }
+        },
+        "security": {
+            "text": "Security",
+            "list": {
+                "roles": "Roles",
+                "users": "Users",
+                "auditlogs": "Audit Logs"
+
+            }
+        },
+        "prosecution": {
+            "text": "Prosecution "
+        },
+        "census": {
+            "text": "Census "
+        },
+
+        "vehicleinspection": {
+            "text": "Vehicle Inspection",
+            "list": {
+                "wideloads": "wide Loads",
+                "yardvehicles": "Yard Vehicles "
+            }
+        },
         "specialrelease": {
-            "text": "vehicles"
+            "text": "Special Release"
+        },
+        "data": {
+            "text": "Data",
+            "list": {
+                "roadauthority": "Road Authority",
+                "leafletmap": "Leaflet Maps"
+            }
+        },
+        "reporting": {
+            "text": "Reporting"
+        },
+        "settings": {
+            "text": "Settings",
+            "list": {
+                "camerasetting": "Camera Setting",
+                "prosecutionsetting": "Prosecution Setting",
+                "permitsetting": "Permit Setting",
+                "trafficcontrolsetting": "Traffic Control"
+            }
+        },
+        "technical": {
+            "text": "Technical",
+            "list": {
+                "healthcheck": "Health Check",
+                "calibrationsetting": "Calibration Settings"
+            }
         }
+
     }
 }
