@@ -35,8 +35,12 @@ $footer-height: 60px;
 $footer-bg: #f2f2f5;
 $footer-color: #74788d;
 // Horizontal nav
-$topnav-bg: #fff;
-$menu-item-color: #7b8190;
+//$topnav-bg: #fff;
+//$menu-item-color: #7b8190;
+//$menu-item-active-color: #5b73e8;
+
+$topnav-bg: yellow;
+$menu-item-color: black;
 $menu-item-active-color: #5b73e8;
 // Right Sidebar
 $rightbar-width: 280px;
@@ -344,8 +348,10 @@ $position-values: ( 0: 0,
 // Body
 //
 // Settings for the `<body>` element.
-$body-bg: #f5f6f8;
-$body-color: $gray-700;
+//$body-bg: #f5f6f8;
+//$body-color: $gray-700;
+$body-bg: #b3bac3;
+$body-color: black;
 $body-text-align: null;
 // Links
 //
