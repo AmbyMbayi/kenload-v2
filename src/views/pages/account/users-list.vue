@@ -240,9 +240,8 @@ export default {
                         <i class="uil uil-ellipsis-v"></i>
                       </template>
 
-                      <a class="dropdown-item" href="#">Action</a>
-                      <a class="dropdown-item" href="#">Another action</a>
-                      <a class="dropdown-item" href="#">Something else here</a>
+                      <a class="dropdown-item" href="/profile">View</a>
+                      <a class="dropdown-item" href="/profile">Action</a>
                     </b-dropdown>
                   </ul>
                 </template>
