@@ -113,6 +113,7 @@
         "components": {
             "text": "Components"
         },
+
         "uielements": {
             "text": "UI Elements",
             "list": {
@@ -198,6 +199,12 @@
                     }
                 }
             }
+        },
+        "userslist": {
+            "text": "Users"
+        },
+        "specialrelease": {
+            "text": "vehicles"
         }
     }
 }

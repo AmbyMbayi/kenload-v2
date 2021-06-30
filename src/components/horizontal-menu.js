@@ -5,6 +5,18 @@ export const menuItems = [
 		icon: 'uil-home-alt',
 		link: '/'
 	},
+	{
+		id: 11,
+		label: 'menuitems.userslist.text',
+		icon: 'uil-users-alt',
+		link: '/users-list'
+	},
+	{
+		id: 111,
+		label: 'menuitems.specialrelease.text',
+		icon: 'uil-taxi',
+		link: '/special-release'
+	},
 
 	{
 		id: 2,
