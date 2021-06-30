@@ -16,8 +16,8 @@ export const menuItems = [
 		label: 'menuitems.specialrelease.text',
 		icon: 'uil-taxi',
 		link: '/special-release'
-	},
-
+	}
+	/*
 	{
 		id: 2,
 		label: 'menuitems.uielements.text',
@@ -41,5 +41,5 @@ export const menuItems = [
 				link: '/ui/video'
 			}
 		]
-	}
+	}*/
 ];
